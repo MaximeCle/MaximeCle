@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hello, moi c'est Maxime
+## Hello, moi c'est Maxime
 
 ### Développeur front-end et designer à Rouen, France 🇫🇷 
 Je travaille actuellement à <a href="https://www.docaposte.com">Docaposte agility</a>
